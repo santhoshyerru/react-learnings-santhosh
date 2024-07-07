@@ -1,0 +1,2155 @@
+{
+    "statusCode": 0,
+    "data": {
+        "statusMessage": "done successfully",
+        "cards": [
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+                        "text": "Sai Darshini Tiffins",
+                        "headerStyling": {
+                            "textColor": "text_Highest_Emphasis",
+                            "textVariant": "header_H3_Black"
+                        }
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+                        "tabs": [
+                            {
+                                "id": "Order Online",
+                                "title": "Order Online"
+                            },
+                            {
+                                "id": "Dineout",
+                                "title": "Dineout",
+                                "cta": "https://swiggy.com/menu/73758/dineout"
+                            }
+                        ]
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+                        "info": {
+                            "id": "73758",
+                            "name": "Sai Darshini Tiffins",
+                            "city": "Hyderabad",
+                            "slugs": {
+                                "restaurant": "sai-darshini-tiffins-sanath-nagar-ameerpet",
+                                "city": "hyderabad"
+                            },
+                            "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                            "cloudinaryImageId": "eeymdtpdkgxxru90w27o",
+                            "locality": "SR Nagar",
+                            "areaName": "SR Nagar",
+                            "costForTwo": "15000",
+                            "costForTwoMessage": "₹150 for two",
+                            "cuisines": [
+                                "South Indian"
+                            ],
+                            "avgRating": 4.5,
+                            "feeDetails": {
+                                "restaurantId": "73758",
+                                "fees": [
+                                    {
+                                        "name": "TYPE_DISTANCE",
+                                        "fee": 8100
+                                    },
+                                    {
+                                        "name": "TYPE_TIME"
+                                    }
+                                ],
+                                "totalFee": 8100,
+                                "title": "Delivery Charge",
+                                "amount": "8100",
+                                "icon": "v1648635511/Delivery_fee_new_cjxumu",
+                                "message": "<b>7.0 kms</b> | ₹81 Delivery fee will apply"
+                            },
+                            "parentId": "11825",
+                            "avgRatingString": "4.5",
+                            "totalRatingsString": "10K+ ratings",
+                            "sla": {
+                                "restaurantId": "73758",
+                                "deliveryTime": 47,
+                                "minDeliveryTime": 45,
+                                "maxDeliveryTime": 50,
+                                "lastMileTravel": 7,
+                                "serviceability": "SERVICEABLE",
+                                "stressFactor": 1,
+                                "rainMode": "RAIN_MODE_LIGHT",
+                                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                                "zoneId": 129,
+                                "slaString": "45-50 MINS",
+                                "lastMileTravelString": "7.0 km",
+                                "iconType": "ICON_TYPE_EMPTY"
+                            },
+                            "availability": {
+                                "nextCloseTime": "2024-07-02 22:30:00",
+                                "visibility": true,
+                                "opened": true,
+                                "restaurantClosedMeta": {}
+                            },
+                            "aggregatedDiscountInfo": {
+                                "header": "10% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "10% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "10% off | Use PARTY",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "10% off up to ₹35 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "10% off | Use code PARTY",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "visible": true
+                            },
+                            "badges": {},
+                            "slugString": "sai-darshini-tiffins-sanath-nagar-ameerpet",
+                            "multiOutlet": true,
+                            "isOpen": true,
+                            "labels": [
+                                {
+                                    "title": "Timings",
+                                    "message": "null"
+                                },
+                                {
+                                    "title": "Address",
+                                    "message": "Opp: Axis Bank Atm, Vengal Rao Nagar Rd, Hyderabad, Telangana 500038"
+                                },
+                                {
+                                    "title": "Cuisines",
+                                    "message": "South Indian"
+                                }
+                            ],
+                            "totalRatings": 10000,
+                            "aggregatedDiscountInfoV2": {
+                                "header": "10% off",
+                                "shortDescriptionList": [
+                                    {
+                                        "meta": "10% off | Use TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "10% off | Use PARTY",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "descriptionList": [
+                                    {
+                                        "meta": "10% off up to ₹35 | Use code TRYNEW",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    },
+                                    {
+                                        "meta": "10% off | Use code PARTY",
+                                        "discountType": "Percentage",
+                                        "operationType": "RESTAURANT"
+                                    }
+                                ],
+                                "couponDetailsCta": "View coupon details"
+                            },
+                            "type": "F",
+                            "nudgeBanners": [
+                                {
+                                    "minValue": 560,
+                                    "maxValue": 800,
+                                    "priority": 2,
+                                    "couponCode": "PARTY",
+                                    "discountInfo": {
+                                        "discountType": "Percentage",
+                                        "value": 10
+                                    },
+                                    "lockedMessage": "Add items worth ₹<amount> to unlock flat 10% off | Code PARTY",
+                                    "unlockedMessage": "PARTY Coupon Unlocked! Use it to save flat 10% off",
+                                    "logoCtx": {}
+                                }
+                            ],
+                            "headerBanner": {
+                                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/73758"
+                            },
+                            "expectationNotifiers": [
+                                {
+                                    "text": "<b>7.0 kms</b> | ₹81 Delivery fee will apply",
+                                    "icon": {
+                                        "imageId": "v1648635511/Delivery_fee_new_cjxumu"
+                                    },
+                                    "popup": {
+                                        "cta": {}
+                                    },
+                                    "type": "DISTANCE_FEE_FOOD_LM",
+                                    "enrichedText": "<b>7.0 kms</b> | ₹81 Delivery fee will apply",
+                                    "halfCardPopup": {
+                                        "halfCardPopupHeader": {}
+                                    },
+                                    "trailingIcon": {}
+                                }
+                            ],
+                            "ratingSlab": "RATING_SLAB_5",
+                            "orderabilityCommunication": {
+                                "title": {},
+                                "subTitle": {},
+                                "message": {},
+                                "customIcon": {}
+                            },
+                            "hasBestsellerItems": true,
+                            "cartOrderabilityNudgeBanner": {
+                                "parameters": {},
+                                "presentation": {}
+                            },
+                            "latLong": "17.44198693,78.4404297",
+                            "backgroundImageOverlayInfo": {}
+                        },
+                        "analytics": {}
+                    },
+                    "relevance": {
+                        "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+                        "sectionId": "POP_UP_CROUTON_MENU"
+                    }
+                }
+            },
+            {
+                "card": {
+                    "card": {
+                        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+                        "layout": {
+                            "rows": 1,
+                            "columns": 4,
+                            "horizontalScrollEnabled": true,
+                            "itemSpacing": 12,
+                            "lineSpacing": 10,
+                            "widgetPadding": {},
+                            "containerStyle": {
+                                "containerPadding": {
+                                    "left": 10,
+                                    "right": 10,
+                                    "bottom": 16
+                                }
+                            },
+                            "scrollBar": {}
+                        },
+                        "id": "offerCollectionWidget_UX4",
+                        "gridElements": {
+                            "infoWithStyle": {
+                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                                "offers": [
+                                    {
+                                        "info": {
+                                            "header": "10% OFF UPTO ₹35",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "2c3b742c-9926-4d65-900e-78969f0ca8a3"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE TRYNEW",
+                                            "description": "ABOVE ₹159",
+                                            "offerType": "offers",
+                                            "restId": "73758",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "FLAT 10% OFF",
+                                            "offerTag": "FLAT DEAL",
+                                            "offerTagColor": "#E46D47",
+                                            "offerIds": [
+                                                "c7a0cdd3-36e0-46f6-b762-6a7f1f611347"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE PARTY",
+                                            "description": "ABOVE ₹800",
+                                            "offerType": "offers",
+                                            "restId": "73758",
+                                            "offerLogo": "offers/generic",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "15% OFF UPTO ₹125",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/21e80364-d187-4037-8298-153e7feee2b0_Kotak.png",
+                                            "offerIds": [
+                                                "4ec8768d-8327-4329-9b58-6dbefb8a3c87"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE KOTAK125",
+                                            "description": "ABOVE ₹499",
+                                            "offerType": "offers",
+                                            "restId": "73758",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/21e80364-d187-4037-8298-153e7feee2b0_Kotak.png",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    },
+                                    {
+                                        "info": {
+                                            "header": "20% OFF UPTO ₹125",
+                                            "offerTagColor": "#E46D47",
+                                            "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/5652719b-c6bc-4f4b-a5d7-39917a6ffdf6_BOBMenuVisibilityLogo.png",
+                                            "offerIds": [
+                                                "69b0ec3d-0b23-44b3-9bb5-1c9a923a1b2a"
+                                            ],
+                                            "expiryTime": "1970-01-01T00:00:00Z",
+                                            "couponCode": "USE BOBDC",
+                                            "description": "ABOVE ₹299",
+                                            "offerType": "offers",
+                                            "restId": "73758",
+                                            "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/6/30/5652719b-c6bc-4f4b-a5d7-39917a6ffdf6_BOBMenuVisibilityLogo.png",
+                                            "descriptionTextColor": "#7302060C"
+                                        },
+                                        "cta": {
+                                            "type": "OFFER_HALF_CARD"
+                                        }
+                                    }
+                                ],
+                                "habitMilestoneInfo": {
+                                    "callout": {}
+                                },
+                                "loyaltyDiscoverPresentationInfo": {
+                                    "logoCtx": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            {
+                "groupedCard": {
+                    "cardGroupMap": {
+                        "REGULAR": {
+                            "cards": [
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                                            "badges": {},
+                                            "vegOnlyDetails": {
+                                                "imageId": "AutoVegOnly_qkjowj",
+                                                "title": "Showing only vegetarian options.",
+                                                "description": "Tap on the VEG ONLY button to turn off the setting"
+                                            },
+                                            "topRatedFilter": {
+                                                "attributes": {
+                                                    "displayText": "Ratings 4.0+"
+                                                }
+                                            },
+                                            "kidsCategoryFilter": {
+                                                "attributes": {
+                                                    "displayText": "Kids Favourites",
+                                                    "tooltip": {
+                                                        "enabled": true,
+                                                        "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                                                    }
+                                                }
+                                            },
+                                            "vegFilter": {
+                                                "attributes": {
+                                                    "displayText": "VEG"
+                                                }
+                                            },
+                                            "nonvegFilter": {
+                                                "attributes": {
+                                                    "displayText": "NONVEG"
+                                                }
+                                            }
+                                        },
+                                        "relevance": {
+                                            "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                                            "sectionId": "MENU_FILTER_TOGGLE"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Recommended",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366514",
+                                                            "name": "Idli",
+                                                            "category": "South Indian",
+                                                            "description": "2 pieces | A fluffy and savory delight from South India.",
+                                                            "imageId": "dn2nakzv7jukdvjgokib",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5300,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "2 pieces"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "12101 ratings",
+                                                                    "ratingCountV2": "12101"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366515",
+                                                            "name": "Sambar Idli   ",
+                                                            "category": "South Indian",
+                                                            "description": "2 pieces",
+                                                            "imageId": "og7pftybcxp078tx5pfi",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY",
+                                                                "portionSize": "2 pieces"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "627 ratings",
+                                                                    "ratingCountV2": "627"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366517",
+                                                            "name": "Vada  ",
+                                                            "category": "South Indian",
+                                                            "description": "2 pieces | A crispy and savory South Indian delicacy.",
+                                                            "imageId": "ufhmfuau86mmfioqcfhj",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY",
+                                                                "portionSize": "2 pieces"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "4715 ratings",
+                                                                    "ratingCountV2": "4715"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366528",
+                                                            "name": "Masala Dosa",
+                                                            "category": "South Indian",
+                                                            "description": "Serves 1 | A flavorful and aromatic crispy crepe filled with a savory potato mixture, served with chutney and sambar on the side.",
+                                                            "imageId": "gnttp2b8bundqr2ikm2g",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "6763 ratings",
+                                                                    "ratingCountV2": "6763"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366537",
+                                                            "name": "Set Dosa",
+                                                            "category": "South Indian",
+                                                            "description": "Serves 1 | A soft and fluffy delight from the southern kitchens.",
+                                                            "imageId": "kez95ckhw0pbvttvjd5z",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "2801 ratings",
+                                                                    "ratingCountV2": "2801"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366526",
+                                                            "name": "Plain Dosa ",
+                                                            "category": "South Indian",
+                                                            "description": "Serves 1 | A classic South Indian delight, crispy and golden with a delicate texture - perfect any time of day.",
+                                                            "imageId": "pysmrktodnuizkojouvp",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 6500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "3673 ratings",
+                                                                    "ratingCountV2": "3673"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366523",
+                                                            "name": "Idli (2 Pcs) Vada (1 Pc)",
+                                                            "category": "South Indian",
+                                                            "description": "A classic South Indian combo of soft Idlis and crispy Vada.",
+                                                            "imageId": "hayt92loxbdsdignd1ip",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8400,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "963 ratings",
+                                                                    "ratingCountV2": "963"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366521",
+                                                            "name": "1 Idli  1 Vada   ",
+                                                            "category": "South Indian",
+                                                            "imageId": "ciozvlry9rwtqxtudszi",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 7000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.5",
+                                                                    "ratingCount": "1452 ratings",
+                                                                    "ratingCountV2": "1452"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366544",
+                                                            "name": "Uttapam",
+                                                            "category": "South Indian",
+                                                            "description": "Serves 1",
+                                                            "imageId": "pfzpkdsks1iphwg3pq6o",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 8000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {},
+                                                            "showImage": true,
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.4",
+                                                                    "ratingCount": "1298 ratings",
+                                                                    "ratingCountV2": "1298"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ],
+                                            "type": "CATEGORY_TYPE_RECOMMENDED"
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                                            "title": "South Indian",
+                                            "categories": [
+                                                {
+                                                    "title": "Dosas",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366528",
+                                                                    "name": "Masala Dosa",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | Serves 1 | A flavorful and aromatic crispy crepe filled with a savory potato mixture, served with chutney and sambar on the side.",
+                                                                    "imageId": "gnttp2b8bundqr2ikm2g",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 7500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {
+                                                                        "text": "Bestseller",
+                                                                        "textColor": "#ffffff",
+                                                                        "topBackgroundColor": "#d53d4c",
+                                                                        "bottomBackgroundColor": "#b02331"
+                                                                    },
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "isBestseller": true,
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.3",
+                                                                            "ratingCount": "6763 ratings",
+                                                                            "ratingCountV2": "6763"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366537",
+                                                                    "name": "Set Dosa",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | Serves 1 | A soft and fluffy delight from the southern kitchens.",
+                                                                    "imageId": "kez95ckhw0pbvttvjd5z",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 8500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {
+                                                                        "text": "Bestseller",
+                                                                        "textColor": "#ffffff",
+                                                                        "topBackgroundColor": "#d53d4c",
+                                                                        "bottomBackgroundColor": "#b02331"
+                                                                    },
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "isBestseller": true,
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "2801 ratings",
+                                                                            "ratingCountV2": "2801"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366526",
+                                                                    "name": "Plain Dosa ",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | Serves 1 | A classic South Indian delight, crispy and golden with a delicate texture - perfect any time of day.",
+                                                                    "imageId": "pysmrktodnuizkojouvp",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 6500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {
+                                                                        "text": "Bestseller",
+                                                                        "textColor": "#ffffff",
+                                                                        "topBackgroundColor": "#d53d4c",
+                                                                        "bottomBackgroundColor": "#b02331"
+                                                                    },
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "isBestseller": true,
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "3673 ratings",
+                                                                            "ratingCountV2": "3673"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366529",
+                                                                    "name": "Onion Dosa",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | Serves 1 | A savory South Indian delight stuffed with a flavorful surprise.",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 7500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "1859 ratings",
+                                                                            "ratingCountV2": "1859"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366543",
+                                                                    "name": "Onion Rava Dosa",
+                                                                    "category": "South Indian",
+                                                                    "isVeg": 1,
+                                                                    "price": 9000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.6",
+                                                                            "ratingCount": "766 ratings",
+                                                                            "ratingCountV2": "766"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366541",
+                                                                    "name": "Plain Rava Dosa",
+                                                                    "category": "South Indian",
+                                                                    "isVeg": 1,
+                                                                    "price": 8500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.2",
+                                                                            "ratingCount": "373 ratings",
+                                                                            "ratingCountV2": "373"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366531",
+                                                                    "name": "Upma Dosa",
+                                                                    "category": "South Indian",
+                                                                    "isVeg": 1,
+                                                                    "price": 8000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.6",
+                                                                            "ratingCount": "338 ratings",
+                                                                            "ratingCountV2": "338"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366532",
+                                                                    "name": "Butter Dosa",
+                                                                    "category": "South Indian",
+                                                                    "isVeg": 1,
+                                                                    "price": 8700,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.6",
+                                                                            "ratingCount": "188 ratings",
+                                                                            "ratingCountV2": "188"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Chapathi/parota",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "103587509",
+                                                                    "name": "Chapathi",
+                                                                    "category": "South Indian",
+                                                                    "description": "Serves 1 | 2 pcs chapathi with potato kurma and dal",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 8000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {
+                                                                        "text": "Bestseller",
+                                                                        "textColor": "#ffffff",
+                                                                        "topBackgroundColor": "#d53d4c",
+                                                                        "bottomBackgroundColor": "#b02331"
+                                                                    },
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "isBestseller": true,
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.5",
+                                                                            "ratingCount": "355 ratings",
+                                                                            "ratingCountV2": "355"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "103587518",
+                                                                    "name": "Parota",
+                                                                    "category": "South Indian",
+                                                                    "description": "2pcs parota along with potato kurma and dal",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 8500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {
+                                                                        "text": "Bestseller",
+                                                                        "textColor": "#ffffff",
+                                                                        "topBackgroundColor": "#d53d4c",
+                                                                        "bottomBackgroundColor": "#b02331"
+                                                                    },
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "isBestseller": true,
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.5",
+                                                                            "ratingCount": "274 ratings",
+                                                                            "ratingCountV2": "274"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Idlis",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366514",
+                                                                    "name": "Idli",
+                                                                    "category": "South Indian",
+                                                                    "description": "2 piece | A fluffy and savory delight from South India.",
+                                                                    "imageId": "dn2nakzv7jukdvjgokib",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 5300,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "portionSize": "2 pieces"
+                                                                    },
+                                                                    "ribbon": {
+                                                                        "text": "Bestseller",
+                                                                        "textColor": "#ffffff",
+                                                                        "topBackgroundColor": "#d53d4c",
+                                                                        "bottomBackgroundColor": "#b02331"
+                                                                    },
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "isBestseller": true,
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.5",
+                                                                            "ratingCount": "12101 ratings",
+                                                                            "ratingCountV2": "12101"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366515",
+                                                                    "name": "Sambar Idli   ",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | 2 piece | Serves 1",
+                                                                    "imageId": "og7pftybcxp078tx5pfi",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 6500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "2 pieces"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "627 ratings",
+                                                                            "ratingCountV2": "627"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Idlis & Vadas",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366523",
+                                                                    "name": "Idli (2 Pcs) Vada (1 Pc)",
+                                                                    "category": "South Indian",
+                                                                    "description": "A classic South Indian combo of soft Idlis and crispy Vada.",
+                                                                    "imageId": "hayt92loxbdsdignd1ip",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 8400,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "963 ratings",
+                                                                            "ratingCountV2": "963"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366521",
+                                                                    "name": "1 Idli  1 Vada   ",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy",
+                                                                    "imageId": "ciozvlry9rwtqxtudszi",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 7000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.5",
+                                                                            "ratingCount": "1452 ratings",
+                                                                            "ratingCountV2": "1452"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366522",
+                                                                    "name": "Idli (1 Pc) Vada Sambar (1 Pc)",
+                                                                    "category": "South Indian",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 7500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "3.8",
+                                                                            "ratingCount": "55 ratings",
+                                                                            "ratingCountV2": "55"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Vadas",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366517",
+                                                                    "name": "Vada  ",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | 2 piece | A crispy and savory South Indian delicacy.",
+                                                                    "imageId": "ufhmfuau86mmfioqcfhj",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 7500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "2 pieces"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "4715 ratings",
+                                                                            "ratingCountV2": "4715"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366519",
+                                                                    "name": "Sambar Vada",
+                                                                    "category": "South Indian",
+                                                                    "description": "Crispy lentil fritters soaked in a mildly sweet, tangy and aromatic lentil stew.",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 8000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "3.8",
+                                                                            "ratingCount": "183 ratings",
+                                                                            "ratingCountV2": "183"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366518",
+                                                                    "name": "Small Vada (4 Pcs)",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | Serves 1",
+                                                                    "isVeg": 1,
+                                                                    "price": 7500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.3",
+                                                                            "ratingCount": "835 ratings",
+                                                                            "ratingCountV2": "835"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Pesarattu",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "121529838",
+                                                                    "name": "Pesarattu ",
+                                                                    "category": "South Indian",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 8000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.2",
+                                                                            "ratingCount": "132 ratings",
+                                                                            "ratingCountV2": "132"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366548",
+                                                                    "name": "Onion Pesarattu",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | Serves 1",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 7500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.5",
+                                                                            "ratingCount": "348 ratings",
+                                                                            "ratingCountV2": "348"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366546",
+                                                                    "name": "Upma Pesarattu ",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | Serves 1",
+                                                                    "imageId": "dmsqsscqe6aphgaigzbz",
+                                                                    "isVeg": 1,
+                                                                    "price": 8500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.5",
+                                                                            "ratingCount": "1840 ratings",
+                                                                            "ratingCountV2": "1840"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Uttapam",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366544",
+                                                                    "name": "Uttapam",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | Serves 1",
+                                                                    "imageId": "pfzpkdsks1iphwg3pq6o",
+                                                                    "inStock": 1,
+                                                                    "isVeg": 1,
+                                                                    "price": 8000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "1298 ratings",
+                                                                            "ratingCountV2": "1298"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Poori",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366551",
+                                                                    "name": "Poori ",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | 2 piece | A crispy and flavorful South Indian dish perfect for any time of the day.",
+                                                                    "imageId": "ak0cw41cca4juibddy43",
+                                                                    "isVeg": 1,
+                                                                    "price": 8500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "2 pieces"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "8788 ratings",
+                                                                            "ratingCountV2": "8788"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Mysore Bajji",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "103587873",
+                                                                    "name": "Mysore Bhajji",
+                                                                    "category": "South Indian",
+                                                                    "description": "Serves 1 | 4 perfectly made bajjis with coconut chutney, allam chutney and sambar",
+                                                                    "imageId": "f0e189f6e72708f7bc632a376e30c3ef",
+                                                                    "isVeg": 1,
+                                                                    "price": 6000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.3",
+                                                                            "ratingCount": "601 ratings",
+                                                                            "ratingCountV2": "601"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Upma",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366549",
+                                                                    "name": "Upma ",
+                                                                    "category": "South Indian",
+                                                                    "description": "Medium Spicy | 80 gm",
+                                                                    "isVeg": 1,
+                                                                    "price": 5300,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "spiceLevel": "MEDIUMSPICY",
+                                                                        "portionSize": "80 gm"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "783 ratings",
+                                                                            "ratingCountV2": "783"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Quick Bites",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366552",
+                                                            "name": "Mirchi Bajji ",
+                                                            "category": "Quick Bites",
+                                                            "description": "Medium Spicy | Serves 1 | Crispy, savory snack that packs a flavorful punch.",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5300,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "845 ratings",
+                                                                    "ratingCountV2": "845"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366553",
+                                                            "name": "Punugulu (10 Pcs)",
+                                                            "category": "Quick Bites",
+                                                            "description": "Medium Spicy | Serves 1 | Crispy, bite-sized indulgence perfect for any craving.",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5300,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "825 ratings",
+                                                                    "ratingCountV2": "825"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366556",
+                                                            "name": "Aloo Bajji ",
+                                                            "category": "Quick Bites",
+                                                            "inStock": 1,
+                                                            "isVeg": 1,
+                                                            "price": 5300,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.0",
+                                                                    "ratingCount": "219 ratings",
+                                                                    "ratingCountV2": "219"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366554",
+                                                            "name": "Pakodi",
+                                                            "category": "Quick Bites",
+                                                            "description": "Serves 1",
+                                                            "isVeg": 1,
+                                                            "price": 5300,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "portionSize": "Serves 1"
+                                                            },
+                                                            "ribbon": {
+                                                                "text": "Bestseller",
+                                                                "textColor": "#ffffff",
+                                                                "topBackgroundColor": "#d53d4c",
+                                                                "bottomBackgroundColor": "#b02331"
+                                                            },
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "isBestseller": true,
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "230 ratings",
+                                                                    "ratingCountV2": "230"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366555",
+                                                            "name": "Masala Vada ",
+                                                            "category": "Quick Bites",
+                                                            "isVeg": 1,
+                                                            "price": 4500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 3 pm, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.1",
+                                                                    "ratingCount": "161 ratings",
+                                                                    "ratingCountV2": "161"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366558",
+                                                            "name": "Mysore Bajji ",
+                                                            "category": "Quick Bites",
+                                                            "description": "Medium Spicy | 4 piece",
+                                                            "imageId": "xc4ke9slmz1pgaoljifk",
+                                                            "isVeg": 1,
+                                                            "price": 5200,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG",
+                                                                "spiceLevel": "MEDIUMSPICY",
+                                                                "portionSize": "4 pieces"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "4.3",
+                                                                    "ratingCount": "4165 ratings",
+                                                                    "ratingCountV2": "4165"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                },
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "20366557",
+                                                            "name": "Samosa ",
+                                                            "category": "Quick Bites",
+                                                            "isVeg": 1,
+                                                            "price": 4000,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 3 pm, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {
+                                                                    "rating": "3.6",
+                                                                    "ratingCount": "85 ratings",
+                                                                    "ratingCountV2": "85"
+                                                                }
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                                            "title": "Main Course",
+                                            "categories": [
+                                                {
+                                                    "title": "Rice",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366562",
+                                                                    "name": "Curd Rice",
+                                                                    "category": "Main Course",
+                                                                    "imageId": "xd8clidz4umco1tycqql",
+                                                                    "isVeg": 1,
+                                                                    "price": 8000,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.3",
+                                                                            "ratingCount": "213 ratings",
+                                                                            "ratingCountV2": "213"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366560",
+                                                                    "name": "Lemon Rice",
+                                                                    "category": "Main Course",
+                                                                    "imageId": "bfvljo3y14ifbhfpjj0d",
+                                                                    "isVeg": 1,
+                                                                    "price": 6500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.1",
+                                                                            "ratingCount": "232 ratings",
+                                                                            "ratingCountV2": "232"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        },
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366561",
+                                                                    "name": "Tomato Rice",
+                                                                    "category": "Main Course",
+                                                                    "imageId": "f2wxtxa5cnvi4hfodlyr",
+                                                                    "isVeg": 1,
+                                                                    "price": 6500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "3.7",
+                                                                            "ratingCount": "179 ratings",
+                                                                            "ratingCountV2": "179"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "title": "Biryani",
+                                                    "itemCards": [
+                                                        {
+                                                            "card": {
+                                                                "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                                "info": {
+                                                                    "id": "20366559",
+                                                                    "name": "Veg Biryani",
+                                                                    "category": "Main Course",
+                                                                    "description": "Serves 1",
+                                                                    "imageId": "vjxrew6q3if7e9yzulft",
+                                                                    "isVeg": 1,
+                                                                    "price": 6500,
+                                                                    "variants": {},
+                                                                    "variantsV2": {},
+                                                                    "nextAvailableAtMessage": "Next available at 11 am, tomorrow",
+                                                                    "itemAttribute": {
+                                                                        "vegClassifier": "VEG",
+                                                                        "portionSize": "Serves 1"
+                                                                    },
+                                                                    "ribbon": {},
+                                                                    "type": "ITEM",
+                                                                    "itemBadge": {},
+                                                                    "badgesV2": {},
+                                                                    "ratings": {
+                                                                        "aggregatedRating": {
+                                                                            "rating": "4.4",
+                                                                            "ratingCount": "365 ratings",
+                                                                            "ratingCountV2": "365"
+                                                                        }
+                                                                    }
+                                                                },
+                                                                "analytics": {},
+                                                                "hideRestaurantDetails": true
+                                                            }
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                                            "title": "Guilt Free",
+                                            "itemCards": [
+                                                {
+                                                    "card": {
+                                                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                                                        "info": {
+                                                            "id": "105967037",
+                                                            "name": "Ragi Kaaram Dosa",
+                                                            "category": "Guilt Free",
+                                                            "isVeg": 1,
+                                                            "price": 10500,
+                                                            "variants": {},
+                                                            "variantsV2": {},
+                                                            "nextAvailableAtMessage": "Next available at 6:15 am, tomorrow",
+                                                            "itemAttribute": {
+                                                                "vegClassifier": "VEG"
+                                                            },
+                                                            "ribbon": {},
+                                                            "type": "ITEM",
+                                                            "itemBadge": {},
+                                                            "badgesV2": {},
+                                                            "ratings": {
+                                                                "aggregatedRating": {}
+                                                            }
+                                                        },
+                                                        "analytics": {},
+                                                        "hideRestaurantDetails": true
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                                            "type": "FSSAI",
+                                            "imageId": "fssai_final_edss9i",
+                                            "text": [
+                                                "License No. 13617011000054"
+                                            ]
+                                        }
+                                    }
+                                },
+                                {
+                                    "card": {
+                                        "card": {
+                                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                                            "name": "Sai Darshini Tiffins",
+                                            "area": "SR Nagar",
+                                            "completeAddress": "Opp: Axis Bank Atm, Vengal Rao Nagar Rd, Hyderabad, Telangana 500038"
+                                        }
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ],
+        "firstOffsetRequest": true,
+        "isQCLink": false
+    },
+    "tid": "ad2fc2e3-f5ce-4df4-a532-88be81c1960a",
+    "sid": "eqi330f6-0c8c-4c9b-b9ad-d4ed895d84d8",
+    "deviceId": "16a2ef35-e8e1-700d-397d-01149ed29a38",
+    "csrfToken": null
+}

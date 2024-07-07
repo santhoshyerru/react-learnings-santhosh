@@ -1,0 +1,17 @@
+{
+    "resId": "107827",
+    "resName": "Asoka Restaurant",
+    "resCuisine": [
+        "North Indian",
+        "Chinese",
+        "Hyderabadi",
+        "Fast Food",
+        "Tandoor",
+        "Seafood",
+        "Snacks"
+    ],
+    "resRating": 4,
+    "resDeliveryTime": 34,
+    "resImg": "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/fegei0e2nqd7svcdpwa0",
+    "resOpen": true
+}
